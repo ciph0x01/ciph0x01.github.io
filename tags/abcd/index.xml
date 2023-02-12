@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>abcd on ciph0x01</title>
+    <link>https://ciph0x01.github.io/tags/abcd/</link>
+    <description>Recent content in abcd on ciph0x01</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Feb 2023 13:07:00 -0500</lastBuildDate><atom:link href="https://ciph0x01.github.io/tags/abcd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://ciph0x01.github.io/blogs/blog/</link>
+      <pubDate>Sun, 12 Feb 2023 13:07:00 -0500</pubDate>
+      
+      <guid>https://ciph0x01.github.io/blogs/blog/</guid>
+      <description>blog </description>
+    </item>
+    
+    <item>
+      <title>blog2</title>
+      <link>https://ciph0x01.github.io/blogs/blog2/</link>
+      <pubDate>Sun, 12 Feb 2023 13:07:00 -0500</pubDate>
+      
+      <guid>https://ciph0x01.github.io/blogs/blog2/</guid>
+      <description>blog2 </description>
+    </item>
+    
+  </channel>
+</rss>
